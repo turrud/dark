@@ -20,16 +20,16 @@
 </head>
 <body class="bokin">
     {{-- loading --}}
-    <div class="preloader">
+    {{-- <div class="preloader">
         <div class="preloader-body">
           <div class="cssload-container">
             <div class="cssload-speeding-wheel"></div>
           </div>
           <p style="color: #CBB682">Loading...</p>
         </div>
-    </div>
+    </div> --}}
 
-    <div class="page">
+    <div class="pag">
         {{-- header vav --}}
         <header class="section page-header context-dark" id="home">
             <!-- RD Navbar-->
@@ -344,10 +344,10 @@
             <div class="bg-custom novi-bg novi-bg-img " style="background-color: #C2A26F"></div>
             <div class="container">
               <div class="row row-30">
-                <div class="col-xl-6 col-md-6 wow fadeInLeft" data-wow-delay=".5s">
+                <div class="col-xl-6 col-md-6 wow fadeInLeft" data-wow-delay=".2s">
                   <h2>About US</h2>
                 </div>
-                <div class="col-xl-5 col-md-6 wow fadeInRight" data-wow-delay=".5s">
+                <div class="col-xl-5 col-md-6 wow fadeInRight" data-wow-delay=".2s">
                   <p1>Pengembangan</p1>
                 </div>
               </div>
@@ -355,48 +355,48 @@
             <div class=" container-custom-right mt-5">
             <div class="justify-center">
                 <div class="card-group ml-4 mr-1 mt-112">
-                    <div class="card border-0 wow fadeInDown thumbnail" data-wow-delay=".5s" style="max-width: 300px; background-color: #C2A26F">
-                      <img src="images/kin.png" class="card-img-top" alt="foto">
+                    <div class="card border-0 wow fadeInDown thumbnail" data-wow-delay=".1s" style="max-width: 300px; background-color: #C2A26F">
+                      <img class="wow fadeInDown" src="images/kin.png" class="card-img-top" alt="foto">
                       <div class="card-body">
                         <h5 class="card-title">Ahmad Ghazy Dananjaya</h5>
                         <p class="card-text"><i>"Puncak keindahan adalah kesinambungan antara insan & Tuhan."</i></p>
                         <p class="card-text"><small class="text-muted">CEO & Founder Dananjaya Design</small></p>
                       </div>
                     </div>
-                    <div class="card border-0 wow fadeInDown thumbnail" data-wow-delay=".6s" style="max-width: 300px; background-color: #C2A26F">
-                      <img src="images/hing.png" class="card-img-top" alt="...">
+                    <div class="card border-0 wow fadeInDown thumbnail" data-wow-delay=".2s" style="max-width: 300px; background-color: #C2A26F">
+                      <img class="wow fadeInDown" src="images/hing.png" class="card-img-top" alt="...">
                       <div class="card-body">
                         <h5 class="card-title">Inggi Lestari</h5>
                         <p class="card-text"><i>"Pendidikan dimulai sejak dalam kandungan sampai liang lahat."</i></p>
                         <p class="card-text"><small class="text-muted">Art Educator</small></p>
                       </div>
                     </div>
-                    <div class="card border-0 wow fadeInDown thumbnail" data-wow-delay=".7s" style="max-width: 300px; background-color: #C2A26F">
-                      <img src="images/co.png" class="card-img-top" alt="...">
+                    <div class="card border-0 wow fadeInDown thumbnail" data-wow-delay=".3s" style="max-width: 300px; background-color: #C2A26F">
+                      <img class="wow fadeInDown" src="images/co.png" class="card-img-top" alt="...">
                       <div class="card-body">
                         <h5 class="card-title">Rico Maulana</h5>
                         <p class="card-text"><i>"I believe media is art."</i></p>
                         <p class="card-text"><small class="text-muted">Furniture Designer</small></p>
                       </div>
                     </div>
-                    <div class="card border-0 wow fadeInDown thumbnail" data-wow-delay=".8s" style="max-width: 300px; background-color: #C2A26F">
-                      <img src="images/tur.png" class="card-img-top" alt="...">
+                    <div class="card border-0 wow fadeInDown thumbnail" data-wow-delay=".4s" style="max-width: 300px; background-color: #C2A26F">
+                      <img class="wow fadeInDown" src="images/tur.png" class="card-img-top" alt="...">
                       <div class="card-body">
                         <h5 class="card-title">Fatur Rahman</h5>
                         <p class="card-text"><i>"(QS. AL-`Alaq[96]:1-5)"</i></p>
                         <p class="card-text"><small class="text-muted">Developer</small></p>
                       </div>
                     </div>
-                    <div class="card border-0 wow fadeInDown thumbnail" data-wow-delay=".9s" style="max-width: 300px; background-color: #C2A26F">
-                      <img src="images/sadida.png" class="card-img-top" alt="...">
+                    <div class="card border-0 wow fadeInDown thumbnail" data-wow-delay=".5s" style="max-width: 300px; background-color: #C2A26F">
+                      <img class="wow fadeInDown" src="images/sadida.png" class="card-img-top" alt="...">
                       <div class="card-body">
                         <h5 class="card-title">Sadida Abdul Ghani</h5>
                         <p class="card-text"><i>"We build your dream with heart"</i></p>
                         <p class="card-text"><small class="text-muted">contractor</small></p>
                       </div>
                     </div>
-                    <div class="card border-0 wow fadeInDown thumbnail" data-wow-delay=".9s" style="max-width: 300px; background-color: #C2A26F">
-                      <img src="images/logo5.png" class="card-img-top" alt="...">
+                    <div class="card border-0 wow fadeInDown thumbnail" data-wow-delay=".6s" style="max-width: 300px; background-color: #C2A26F">
+                      <img class="wow fadeInDown" src="images/logo5.png" class="card-img-top" alt="...">
                       <div class="card-body">
                         <h5 class="card-title">Rangga Firmansyah, S.Sn., M.Sc</h5>
                         <p class="card-text"><i>"Motto Pak rangga" </i></p>
