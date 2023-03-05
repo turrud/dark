@@ -19,16 +19,6 @@
     </style>
 </head>
 <body class="bokin">
-    {{-- loading --}}
-    {{-- <div class="preloader">
-        <div class="preloader-body">
-          <div class="cssload-container">
-            <div class="cssload-speeding-wheel"></div>
-          </div>
-          <p style="color: #CBB682">Loading...</p>
-        </div>
-    </div> --}}
-
     <div class="pag">
         {{-- header vav --}}
         <header class="section page-header context-dark" id="home">
@@ -41,7 +31,7 @@
                     <div class="rd-navbar-nav-wrap">
                       <!-- RD Navbar Nav-->
                       <ul class="rd-navbar-nav">
-                        <li class="rd-nav-item active"><a class="rd-nav-link" href="/">Home</a>
+                        <li class="rd-nav-item active"><a class="rd-nav-link" href="#home">Home</a>
                         </li>
                         <li class="rd-nav-item"><a class="rd-nav-link" href="#event">Event</a>
                         </li>
@@ -60,7 +50,7 @@
                       <!-- RD Navbar Toggle-->
                       <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button>
                       <!-- RD Navbar Brand-->
-                      <div class="rd-navbar-brand"><a class="brand" href="/"><img src="https://omahkucuk.000webhostapp.com/images/logo5.png" alt="" width="60" height="20"/></a>
+                      <div class="rd-navbar-brand"><a class="brand" href="/"><img src="images/logo5.png" alt="" width="60" height="20"/></a>
                       </div>
                     </div>
                     <div class="rd-navbar-collapse">
@@ -79,8 +69,8 @@
         <section class="section bg-gray-900 box-custom-1">
             <div class="box-custom-1-aside">
               <ul class="box-custom-1-list">
-                <li class="wow fadeInLeft" data-wow-delay=".5s"><a class="link link-social" target="_blank" href="#">
-                    <div class="icon novi-icon fa-facebook"></div></a></li>
+                <li class="wow fadeInLeft" data-wow-delay=".5s"><a class="link link-social" target="_blank" href="https://api.whatsapp.com/send/?phone=6289523941316&text&type=phone_number&app_absent=0">
+                    <div class="icon novi-icon fa-whatsapp"></div></a></li>
                 <li class="wow fadeInLeft" data-wow-delay=".6s"><a class="link link-social" target="_blank" href="https://www.youtube.com/@omahin">
                     <div class="icon novi-icon fa-youtube-play"></div></a></li>
                 <li class="wow fadeInLeft" data-wow-delay=".7s"><a class="link link-social" target="_blank" href="https://www.instagram.com/dananjayadesign">
@@ -467,7 +457,7 @@
                   <div class="owl-carousel owl-carousel-modern" data-items="1" data-dots="true" data-stage-padding="0" data-loop="false" data-margin="0" data-mouse-drag="false" data-autoplay="true">
                     <div class="quote-modern">
                       <div class="quote-modern-header">
-                        <div class="quote-classic-avatar"><img src="images/home-08-100x100.jpg" alt="" width="100" height="100"/>
+                        <div class="quote-classic-avatar"><img src="images/logo5.png" alt="" width="100" height="100"/>
                         </div>
                         <div class="quote-classic-description">
                           <h4 class="quote-classic-name">Kate Peterson</h4>
@@ -480,28 +470,28 @@
                     </div>
                     <div class="quote-modern">
                       <div class="quote-modern-header">
-                        <div class="quote-classic-avatar"><img src="images/home-09-100x100.jpg" alt="" width="100" height="100"/>
+                        <div class="quote-classic-avatar"><img src="images/logo5.png" alt="" width="100" height="100"/>
                         </div>
                         <div class="quote-classic-description">
-                          <h4 class="quote-classic-name">Peter Smith</h4>
+                          <h4 class="quote-classic-name">Dananjaya Design</h4>
                           <p class="quote-classic-position">Regular client</p>
                         </div>
                       </div>
                       <div class="quote-modern-body">
-                        <p>This agency was highly recommended to me. The sensitivity, knowledge, vision and ultimate execution this firm brought to the table was tremendous. They have enormously talented designers.</p>
+                        <p>.......</p>
                       </div>
                     </div>
                     <div class="quote-modern">
                       <div class="quote-modern-header">
-                        <div class="quote-classic-avatar"><img src="images/home-10-100x100.jpg" alt="" width="100" height="100"/>
+                        <div class="quote-classic-avatar"><img src="images/logo5.png" alt="" width="100" height="100"/>
                         </div>
                         <div class="quote-classic-description">
-                          <h4 class="quote-classic-name">Jane Williams</h4>
+                          <h4 class="quote-classic-name">Dananjaya Design</h4>
                           <p class="quote-classic-position">Regular client</p>
                         </div>
                       </div>
                       <div class="quote-modern-body">
-                        <p>I chose Interia because of their knowledge, experience and attention to detail that has proven invaluable to me in creating a superior finished project, which attracts more clients to my shop.</p>
+                        <p>......</p>
                       </div>
                     </div>
                   </div>
@@ -510,17 +500,17 @@
                   <div class="box-modern novi-bg">
                     <p class="box-modern-title">companies that trust us</p>
                     <ul class="box-modern-list">
-                      <li><img src="images/brand-01-94x34.png" alt="" width="94" height="34"/>
+                      <li><img src="images/kin.png" alt="" width="94" height="34"/>
                       </li>
-                      <li><img src="images/brand-02-82x44.png" alt="" width="82" height="44"/>
+                      <li><img src="images/kin.png" alt="" width="82" height="44"/>
                       </li>
-                      <li><img src="images/brand-03-96x41.png" alt="" width="96" height="41"/>
+                      <li><img src="images/kin.png" alt="" width="96" height="41"/>
                       </li>
-                      <li><img src="images/brand-04-145x32.png" alt="" width="145" height="32"/>
+                      <li><img src="images/kin.png" alt="" width="145" height="32"/>
                       </li>
-                      <li><img src="images/brand-05-78x45.png" alt="" width="78" height="45"/>
+                      <li><img src="images/kin.png" alt="" width="78" height="45"/>
                       </li>
-                      <li><img src="images/brand-06-108x68.png" alt="" width="108" height="68"/>
+                      <li><img src="images/kin.png" alt="" width="108" height="68"/>
                       </li>
                     </ul>
                   </div>
@@ -542,27 +532,27 @@
                 <div class="col-xl-2 col-lg-2 col-sm-6">
                 <p class="footer-classic-title">Socials</p>
                 <ul class="footer-classic-list">
-                    <li><a href="#">Facebook</a></li>
-                    <li><a href="#">Instagram</a></li>
-                    <li><a href="#">YouTube</a></li>
+                    {{-- <li><a target="_blank" href="https://api.whatsapp.com/send/?phone=6289523941316&text&type=phone_number&app_absent=0">WhatsApp</a></li> --}}
+                    <li><a target="_blank" href="https://www.instagram.com/dananjayadesign">Instagram</a></li>
+                    <li><a target="_blank" href="https://www.youtube.com/@omahin">YouTube</a></li>
                 </ul>
                 </div>
                 <div class="col-xl-2 col-lg-2 col-sm-6">
-                <p class="footer-classic-title">phone</p>
+                <p class="footer-classic-title">WhatsApp</p>
                 <ul class="footer-classic-list">
-                    <li><a href="tel:#">+62 895 2394 1316</a></li>
+                    <li><a href="https://api.whatsapp.com/send/?phone=6289523941316&text&type=phone_number&app_absent=0">+62 895 2394 1316</a></li>
                 </ul>
                 </div>
                 <div class="col-xl-2 col-lg-3 col-sm-6">
                 <p class="footer-classic-title">Email</p>
                 <ul class="footer-classic-list">
-                    <li><a href="mailto:#">helpdesk@dananjayadesign.com</a></li>
+                    <li><a href="mailto:helpdesk@dananjayadesign.com">helpdesk@dananjayadesign.com</a></li>
                 </ul>
                 </div>
             </div>
             <div class="footer-classic-logo-wrap"><a class="brand" href="/"><img src="images/logo5.png" alt="" width="189" height="35"/></a>
             </div>
-            <p class="rights"><span>&copy;&nbsp; </span><span class="copyright-year"></span><span>&nbsp;</span><span>Dananjaya Design</span><span>. All Rights Reserved. Dananjaya Design. Inc</span></p>
+            <p class="rights"><span>&copy;&nbsp; </span><span class="copyright-year"></span><span>&nbsp;</span><span>Dananjaya Design</span><span>. All Rights Reserved.</span></p>
             </div>
         </footer>
 

@@ -774,7 +774,7 @@ a[href*='tel'], a[href*='mailto'] {
 }
 
 .box-modern-list img {
-	opacity: .5;
+	/* opacity: .5; */
 	transition: all 0.3s ease-in-out;
 }
 
@@ -2697,7 +2697,7 @@ textarea.form-input {
 	left: 0;
 	bottom: -1px;
 	width: 54px;
-	background-color: #FFDC25;
+	/* background-color: #FFDC25; */
 	z-index: -1;
 }
 
